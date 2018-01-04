@@ -1,1 +1,1 @@
-# remove_reductant_caffemodels
+This is a script to delete reductant caffemodels and solverstates.
