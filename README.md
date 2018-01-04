@@ -1,0 +1,1 @@
+# remove_reductant_caffemodels
